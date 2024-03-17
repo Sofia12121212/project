@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0
+    }
+
+body {
+    background-color: white;
+}
+
+header {
+    background-color: #4993FA;
+    padding: 15px 0px;
+     display: flex;
+        justify-content:space-between;
+    justify-content: space-around  
+}
+
+header a{
+    margin-top: 30px;
+    float: left;
+    text-decoration: none;
+    background-color: #FBA834 ;
+    color: black;
+    border-radius: 5px;
+    height: 20px;
+    padding: 5px;
+
+}
+nav{
+    display: flex;
+    gap: 10px;
+   
+}
+header p {
+    color: #0C359E;
+    font-family: Trattatello, fantasy;
+}
+footer {
+    background-color: #387ADF;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img {
+  width: 130px;
+   margin-top: 15px;
+   margin:15px ;
+   height: 130px;
+   border: 5px double #FBA834;
+   padding: 25px;
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+ text-align: center;
+   margin-top: 10px; 
+   margin-bottom:10px;
+   background-color: #F7EEDD;
+}
+
+main {
+   
+
+}
+
+main p {
+    font-family: cursive;
+}
+
+hr {
+   margin-bottom: 15px; 
+}
+
+h2 {
+    text-align: center;
+}
+
+.comp{
+    border: 1px solid #387ADF;
+    margin: 15px;
+   
+}
+
+.comp2{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp3{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp4{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp5{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp6{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp7{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+
+.comp8{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+
+.comp9{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+
+.comp10{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp11{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp12{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp13{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.comp14{
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.pokypka {
+    background-color: #387ADF;
+}
